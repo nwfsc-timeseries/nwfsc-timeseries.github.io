@@ -11,13 +11,12 @@ permalink: /:title ## disables post output
 timezone: null
 lsi: false
 markdown: kramdown
-highlighter: rouge
 
 
 ### content configuration ###
 title:       "NWFSC Time-Series Analysis"
 keywords:    "MARSS, atsar"
-description: ""
+description: "Landing page for NWFSC Time-Series Analysis"
 source_link: "https://nwfsc-timeseries.github.io/"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
@@ -34,3 +33,6 @@ colors:
   orange:    '#fab125'
   turquoise: '#0fbfcf'
   darkblue: '#0a4199'
+
+kramdown:
+  auto_ids:  false
