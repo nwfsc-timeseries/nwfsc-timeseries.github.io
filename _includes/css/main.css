@@ -296,6 +296,20 @@ nav ul li:hover, nav ul li.active {
     color: black;
 }
 
+#divcontainer {
+  display: flex;                  /* establish flex container */
+  flex-direction: row;            /* default value; can be omitted */
+  flex-wrap: nowrap;              /* default value; can be omitted */
+  justify-content: space-between; /* switched from default (flex-start, see below) */
+  background-color: yellow;
+}
+#divbox1 {
+  width: 150px;
+  height: 150px;
+  border: 2px dashed red;
+  text-align: center;
+}
+
 /* mid size (tablets, landscapes) */
 @media only screen and (max-width: 679px) {
   nav { font-size:11px; }
