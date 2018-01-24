@@ -7,7 +7,7 @@ icon: img/logo2.png
 
 # Publications related to multivariate time-series analysis
 
-This is a selection of our papers.  See our <a href="https://nwfsc-timeseries.github.io/#contact">individual websites</a> for other pulblications.
+This is a selection of our papers.  See our <a href="https://nwfsc-timeseries.github.io/#contact">individual websites</a> for our publications on other topics.
 
 <style>
 ul {
@@ -55,7 +55,7 @@ ul {
 
 * Drake, J., E. A. Berntson, J. M. Cope, R. G. Gustafson, **E. E. Holmes**, P. S. Levin, N. Tolimieri, R. S. Waples, S. Sogard, and G. D. Williams. 2010. Status review of five rockfish species in Puget Sound, Washington: Bocaccio (Sebastes paucispinis), canary rockfish (S. pinniger), yelloweye rockfish (S. ruberrimus), greenstriped rockfish (S. elongatus), and redstripe rockfish (S. proriger). U.S. Dept. of Commerce, NOAA Tech. Memo., NMFS-NWFSC-108. [PDF](Drakeetal2010.pdf)
 
-* **Ward, E.J.**, H. Chirrakal, M. Gonzalez-Suarez, D. Aurioles-Gamboa, **E.E. Holmes**, and L. Gerber. 2010. Inferring spatial structure from time-series data: using multivariate state-space models to detect metapopulation structure of California sea lions in the Gulf of California, Mexico.  Journal of Applied Ecology 47: 47-56. *Recommended by Faculty of 1000 Biology* [PDF](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2664.2009.01745.x/epdf)
+* **Ward, E.J.**, H. Chirrakal, M. Gonzalez-Suarez, D. Aurioles-Gamboa, **E.E. Holmes**, and L. Gerber. 2010. Inferring spatial structure from time-series data: using multivariate state-space models to detect metapopulation structure of California sea lions in the Gulf of California, Mexico.  Journal of Applied Ecology 47: 47-56. [PDF](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2664.2009.01745.x/epdf)
 
 * **Holmes, E. E.** and **E. J. Ward**. 2010. Analysis of multivariate time series using the MARSS package [PDF](http://cran.r-project.org/web/packages/MARSS/vignettes/UserGuide.pdf). User Guide for the [MARSS R package](http://cran.r-project.org/web/packages/MARSS/index.html)
 
