@@ -264,11 +264,25 @@ nav ul li:hover, nav ul li.active {
     min-width:60px;
     line-height:40px;
   }
+#coursesbox {
+  font-size: 12pt;
+  font-size: 6vw; 
+}
+#coursesboxtext {
+  font-size: 3vw; 
+}
 }
 
 /* tiny size (phones) */
 @media only screen and (max-width: 380px) {
   nav ul li { min-width:90px; line-height:20px; }
+#coursesbox {
+  font-size: 4vw; 
+}
+#coursesboxtext {
+  display: none; 
+}
+  
 }
 
 /* anything not desktop */
@@ -306,5 +320,12 @@ nav ul li:hover, nav ul li.active {
     -moz-column-count:    2;
     column-count:         2;
   }
+#coursesbox {
+  font-size: 12pt;
+  font-size: 6vw; 
+}
+#coursesboxtext {
+  font-size: 3vw; 
+}
 }
 
