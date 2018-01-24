@@ -29,8 +29,6 @@ ul {
 
 * Ford, M. J., K. Barnas, T. Cooney, L. G. Crozier, M. Diaz, J. J. Hard, **E. E. Holmes**, D. M. Holzer, R. G. Kope, P. W. Lawson, M. Liermann, J. M. Myers, M. Rowse, D. J. Teel, D. M. Van Doornik, T. C. Wainwright, L. A. Weitkamp, M. Williams. 2015. Status Review Update for Pacific Salmon and Steelhead Listed under the Endangered Species Act:  Pacific Northwest. National Marine Fisheries Service, Northwest Fisheries Science Center. [PDF](https://www.nwfsc.noaa.gov/assets/11/8623_03072016_124156_Ford-NWSalmonBioStatusReviewUpdate-Dec%2021-2015%20v2.pdf)
 
-* See, K. E. and **E. E. Holmes**. 2015. Reducing bias and improving precision in species extinction forecasts. Ecological Applications 25: 1157-1165.  [PDF](SeeHolmes2015.pdf)
-
 * Ruhi, A., **E. E. Holmes**, J. N. Rinne, and J. L. Sabo. 2015. Anomalous droughts, not invasion, decrease persistence of native fishes in a desert river. Global Change Biology 21:1482-1496. [html](http://onlinelibrary.wiley.com/doi/10.1111/gcb.12780/full) [PDF](Ruhietal2015.pdf)
 
 * Griffiths J. R, D. E. Schindler, J. B. Armstrong, **M. D. Scheuerell**, D. C. Whited, R. A. Clarke, R. Hilborn, C. A. Holt, S. T. Lindley, J. A. Stanford, and E. C. Volk. 2014. Performance of salmon fishery portfolios across western North America. Journal of Applied Ecology 51:1554–1563
