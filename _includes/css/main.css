@@ -296,6 +296,12 @@ nav ul li:hover, nav ul li.active {
     color: black;
 }
 
+#boxlinks {
+  color: blue;
+  text-decoration:none;
+  font-weight:600;
+}
+
 #coursescontainer {
   display: flex;                  /* establish flex container */
   flex-direction: row;            /* default value; can be omitted */
