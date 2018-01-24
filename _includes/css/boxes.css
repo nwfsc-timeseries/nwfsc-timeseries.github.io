@@ -84,6 +84,8 @@
 #contactsimg {
   width: 100% !important;
   border-radius:50% !important;
+  display: inline-block;
+  padding: 20px;
 }
 
 .boxlinks{ /*can't figure out how to make Jekyll not override so use !important*/
