@@ -311,11 +311,7 @@ nav ul li:hover, nav ul li.active {
   border: 5px solid #73AD21;
   background-color: white;
   padding: 20px;
-  width: 100px;
-  height: 100px;
   font-size: 14pt; 
-  margin-right: 1%;
-  margin-bottom: 0.5em;
   color: black;
 }
 #pkgscontainer {
