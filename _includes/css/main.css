@@ -296,10 +296,13 @@ nav ul li:hover, nav ul li.active {
     color: black;
 }
 
-#boxlinks {
+#boxlinks a a:visited{
   color: blue;
   text-decoration:none;
   font-weight:600;
+}
+#boxlinks  a:hover {
+  opacity:1;
 }
 
 #coursescontainer {
