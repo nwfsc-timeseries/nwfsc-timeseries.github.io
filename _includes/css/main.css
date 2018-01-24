@@ -278,6 +278,7 @@ nav ul li:hover, nav ul li.active {
     width: 80%;
     padding: 10px;
     text-align: center;
+    background: red;
 }
 
 #rcorners3 {
