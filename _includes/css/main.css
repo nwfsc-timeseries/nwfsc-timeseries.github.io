@@ -296,12 +296,17 @@ nav ul li:hover, nav ul li.active {
     color: black;
 }
 
-#boxlinks a a:visited{
+a.boxlinks
+a.boxlinks:visited{
   color: blue;
   text-decoration:none;
   font-weight:600;
+  opacity:0.75
 }
-#boxlinks  a:hover {
+a.boxlinks:hover {
+  color: blue;
+  text-decoration:none;
+  font-weight:600;
   opacity:1;
 }
 
