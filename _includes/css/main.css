@@ -333,7 +333,8 @@ nav ul li:hover, nav ul li.active {
   font-size: 14pt; 
   margin-right: 1%;
   margin-left: 1%;
-  margin-bottom: 0.5em;
+  margin-bottom: 0px;
+  margin-top: 0px;
   color: black;
 }
 /* mid size (tablets, landscapes) */
