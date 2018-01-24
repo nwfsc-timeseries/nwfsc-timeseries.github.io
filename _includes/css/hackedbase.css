@@ -52,7 +52,8 @@
 ================================================== */
 	body {
 		background: #fff;
-		font: 14px/21px "Raleway", "HelveticaNeue-Light", Arial, sans-serif;
+		font-size: 14px/21px;
+		font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
 		color: #444;
 		-webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
 		-webkit-text-size-adjust: 100%;
@@ -267,14 +268,14 @@
   ================================================== */
 
 
-.highlight {
+.highlighttable {
   color: #f8f8f2;
   table-layout: fixed;
   white-space: nowrap;
   width:90%;
 }
 
-.highlight pre, .highlight code { display:block; margin:0; padding:0; background: none; overflow:auto; word-wrap: normal; }
+.highlighttable pre, .highlighttable code { display:block; margin:0; padding:0; background: none; overflow:auto; word-wrap: normal; }
 
 .highlight, .linenodiv {
   background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQIHWPQ1dU1BgABzQC7XXMTYQAAAABJRU5ErkJggg==);
@@ -282,11 +283,11 @@
   padding: 10px;
   margin-bottom:20px;
 }
-.gutter, .lineno { color: #ccc; }
+.linenodiv, .lineno { color: #ccc; }
 
-td.gl { width: 40px; }
+td.linenos { width: 40px; }
 
-.gutter {
+.linenodiv {
   border-right: none;
   padding: 10px;
   text-align: right;
@@ -362,6 +363,5 @@ span.lineno {
 
 .gh { } /* Generic Heading & Diff Header */
 .gu { color: #75715e; } /* Generic.Subheading & Diff Unified/Comment? */
-
 .gd { color: #f92672; } /* Generic.Deleted & Diff Deleted */
 .gi { color: #a6e22e; } /* Generic.Inserted & Diff Inserted */
