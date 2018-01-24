@@ -273,7 +273,7 @@ nav ul li:hover, nav ul li.active {
     color: black;
 }
 
-.center {
+.divcenter {
     margin: auto;
     width: 80%;
     padding: 10px;
