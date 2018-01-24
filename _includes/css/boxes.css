@@ -72,7 +72,7 @@
   justify-content: center; /* switched from default (flex-start, see below) */
 }
 #contactsbox {
-  width: 30%;
+  width: 25%;
   text-align: center;
   padding: 20px;
   font-size: 14pt; 
