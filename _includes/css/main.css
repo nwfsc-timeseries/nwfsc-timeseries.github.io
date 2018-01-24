@@ -260,13 +260,18 @@ nav ul li:hover, nav ul li.active {
 /* courses boxes */
 #rcorners2 {
     border-radius: 25px;
-    border: 2px solid #73AD21;
+    border: 5px solid #73AD21;
+    background-color: white;
     padding: 20px;
     width: 200px;
     height: 150px;
     text-align: center;
     vertical-align: center;
     line-height:150px;
+    float: left;
+    font-size: 14pt; 
+    margin-right: 1%;
+    margin-bottom: 0.5em;
 }
 
 /* mid size (tablets, landscapes) */
