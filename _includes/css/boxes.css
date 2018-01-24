@@ -41,6 +41,9 @@
   background: rgb(255,255,255); /* Fall-back for browsers that don't support rgba */
   background: rgba(255,255,255, 0.8);
 }
+#coursesboxtext {
+  font-size: 10pt; 
+}
 #pkgscontainer {
   display: flex;                  /* establish flex container */
   flex-direction: row;            /* default value; can be omitted */
@@ -81,6 +84,7 @@
   margin-bottom: 0px;
   margin-top: 0px;
 }
+
 #contactsimg {
   width: 100% !important;
   border-radius:50% !important;
