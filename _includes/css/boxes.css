@@ -64,3 +64,11 @@
   background: rgb(255,255,255); /* Fall-back for browsers that don't support rgba */
   background: rgba(255,255,255, 0.8);
 }
+
+.boxlinks{ /*can't figure out how to make Jekyll not override so use !important*/
+  color: blue               !important;
+  text-decoration:none      !important;
+  padding:20px              !important;
+  background-color: #f44336 !important;
+  display:inline-block      !important;
+}
