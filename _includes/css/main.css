@@ -257,6 +257,17 @@ nav ul li:hover, nav ul li.active {
 .longlist { font-size: 14px !important; }
 .longlist li { margin-bottom: 3px; }
 
+/* courses boxes */
+#rcorners2 {
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+    text-align: center;
+    vertical-align: center;
+    line-height:150px;
+}
 
 /* mid size (tablets, landscapes) */
 @media only screen and (max-width: 679px) {
@@ -308,3 +319,4 @@ nav ul li:hover, nav ul li.active {
     column-count:         2;
   }
 }
+
