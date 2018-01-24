@@ -266,13 +266,16 @@ nav ul li:hover, nav ul li.active {
     width: 200px;
     height: 150px;
     text-align: center;
-    vertical-align: center;
-    line-height:150px;
     float: left;
     font-size: 14pt; 
     margin-right: 1%;
     margin-bottom: 0.5em;
     color: black;
+}
+.center {
+    margin: auto;
+    width: 90%;
+    padding: 10px;
 }
 
 /* mid size (tablets, landscapes) */
