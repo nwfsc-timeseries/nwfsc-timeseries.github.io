@@ -301,7 +301,6 @@ nav ul li:hover, nav ul li.active {
   flex-direction: row;            /* default value; can be omitted */
   flex-wrap: nowrap;              /* default value; can be omitted */
   justify-content: center; /* switched from default (flex-start, see below) */
-  background-color: yellow;
 }
 #coursesbox {
   width: 200px;
@@ -312,15 +311,17 @@ nav ul li:hover, nav ul li.active {
   background-color: white;
   padding: 20px;
   font-size: 14pt; 
-  color: black;
   margin-right: 1%;
+  margin-left: 1%;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  color: black;
 }
 #pkgscontainer {
   display: flex;                  /* establish flex container */
   flex-direction: row;            /* default value; can be omitted */
   flex-wrap: nowrap;              /* default value; can be omitted */
   justify-content: center; /* switched from default (flex-start, see below) */
-  background-color: yellow;
 }
 #pkgsbox {
   width: 150px;
