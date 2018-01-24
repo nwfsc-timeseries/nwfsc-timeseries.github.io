@@ -272,11 +272,13 @@ nav ul li:hover, nav ul li.active {
   font-size: 3vw; 
 }
 #pkgsbox {
-  font-size: 12pt;
-  font-size: 6vw; 
+  font-size: 2vw; 
 }
 #pkgsboxtext1 {
-  font-size: 3vw; 
+  font-size: 1.4vw; 
+}
+#pkgsboxtext2 {
+  font-size: 1.4vw; 
 }
 }
 
@@ -286,7 +288,7 @@ nav ul li:hover, nav ul li.active {
 #coursesbox {
   font-size: 4vw; 
 }
-#coursesboxtext {
+#coursesboxtext2 {
   display: none; 
 }
 #pkgsboxtext2 {
