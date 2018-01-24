@@ -73,12 +73,12 @@
 #pkgsboxtext2 { /*this one disappears on phones*/
   font-size: 3vw; 
 }
-@media screen and (min-width: 400px) { /* don't go over 12px */
+@media screen and (min-width: 333px) { /* don't go over 12px */
   #pkgsboxtext1 {
-     font-size: 12pt;
+     font-size: 10pt;
   }
   #pkgsboxtext2 { 
-     font-size: 12pt; 
+     font-size: 10pt; 
   }
 }
 #contactscontainer {
