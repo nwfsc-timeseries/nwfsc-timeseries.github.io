@@ -313,6 +313,7 @@ nav ul li:hover, nav ul li.active {
   padding: 20px;
   font-size: 14pt; 
   color: black;
+  margin-right: 1%;
 }
 #pkgscontainer {
   display: flex;                  /* establish flex container */
