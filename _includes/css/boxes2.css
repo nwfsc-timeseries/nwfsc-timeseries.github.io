@@ -71,12 +71,14 @@
   font-size: 3vw; 
 }
 #pkgsboxtext2 { /*this one disappears on phones*/
-  font-size: 3vw; 
+  font-size: 2.5vw; 
+}
+@media screen and (min-width: 400px) { /* don't go over 12px */
+  #pkgsboxtext1 {
+     font-size: 12pt;
+  }
 }
 @media screen and (min-width: 333px) { /* don't go over 10px */
-  #pkgsboxtext1 {
-     font-size: 10pt;
-  }
   #pkgsboxtext2 { 
      font-size: 10pt; 
   }
