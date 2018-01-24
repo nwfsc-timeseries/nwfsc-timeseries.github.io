@@ -271,6 +271,10 @@ nav ul li:hover, nav ul li.active {
 #coursesboxtext {
   font-size: 3vw; 
 }
+#pkgsbox {
+  font-size: 12pt;
+  font-size: 6vw; 
+}
 }
 
 /* tiny size (phones) */
@@ -282,7 +286,10 @@ nav ul li:hover, nav ul li.active {
 #coursesboxtext {
   display: none; 
 }
-  
+#pkgsboxtext {
+  display: none; 
+}
+
 }
 
 /* anything not desktop */
@@ -326,6 +333,10 @@ nav ul li:hover, nav ul li.active {
 }
 #coursesboxtext {
   font-size: 3vw; 
+}
+#pkgsbox {
+  font-size: 12pt;
+  font-size: 6vw; 
 }
 }
 

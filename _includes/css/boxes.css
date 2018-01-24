@@ -67,7 +67,9 @@
   background: rgb(255,255,255); /* Fall-back for browsers that don't support rgba */
   background: rgba(255,255,255, 0.8);
 }
-
+#pkgsboxtext {
+  font-size: 10pt; 
+}
 #contactscontainer {
   display: flex;                  /* establish flex container */
   flex-direction: row;            /* default value; can be omitted */
