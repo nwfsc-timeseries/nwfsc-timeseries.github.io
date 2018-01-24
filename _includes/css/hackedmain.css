@@ -327,19 +327,6 @@ nav ul li:hover, nav ul li.active {
     -moz-column-count:    2;
     column-count:         2;
   }
-#coursesbox {
-  font-size: 12pt;
-  font-size: 6vw; 
-}
-#coursesboxtext {
-  font-size: 3vw; 
-}
-#pkgsboxtext1 {
-  font-size: 3vw; 
-}
-#pkgsbox {
-  font-size: 12pt;
-  font-size: 6vw; 
-}
+
 }
 
