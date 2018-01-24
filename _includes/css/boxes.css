@@ -68,7 +68,6 @@
 .boxlinks{ /*can't figure out how to make Jekyll not override so use !important*/
   color: blue               !important;
   text-decoration:none      !important;
-  padding:20px              !important;
-  background-color: #f44336 !important;
+  padding-bottom:15px       !important;
   display:inline-block      !important;
 }
