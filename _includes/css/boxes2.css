@@ -27,6 +27,7 @@
 }
 #coursesbox {
   flex: auto;
+  max-width: 300px;
   text-align: center;
   border-radius: 25px;
   border: 5px solid #73AD21;
