@@ -53,7 +53,6 @@
   text-align: center;
   border-radius: 25px;
   border: 5px solid blue;
-  background-color: white;
   padding: 20px;
   font-size: 14pt; 
   margin-right: 1%;
@@ -61,4 +60,7 @@
   margin-bottom: 0px;
   margin-top: 0px;
   color: black;
+  /*background-color: white;*/
+  background: rgb(255,255,255); /* Fall-back for browsers that don't support rgba */
+  background: rgba(255,255,255, 0.8);
 }
