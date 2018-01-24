@@ -1,2 +1,2 @@
 
-[SinglePaged theme](https://github.com/t413/SinglePaged) by Tim O'Brien 
+[SinglePaged](https://github.com/t413/SinglePaged) Theme by Tim O'Brien 
