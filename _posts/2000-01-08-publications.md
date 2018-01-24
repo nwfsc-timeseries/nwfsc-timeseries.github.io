@@ -1,6 +1,6 @@
 ---
 title: "Publications"
-bg: green
+bg: leafgreen
 color: black
 icon: img/logo2.png
 ---
