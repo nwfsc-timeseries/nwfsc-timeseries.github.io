@@ -272,6 +272,7 @@ nav ul li:hover, nav ul li.active {
     font-size: 14pt; 
     margin-right: 1%;
     margin-bottom: 0.5em;
+    color: black;
 }
 
 /* mid size (tablets, landscapes) */
