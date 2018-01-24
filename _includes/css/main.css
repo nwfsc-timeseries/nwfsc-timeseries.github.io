@@ -258,19 +258,19 @@ nav ul li:hover, nav ul li.active {
 .longlist li { margin-bottom: 3px; }
 
 /* courses boxes */
-#Courses a #boxlinks{
+#courses a #boxlinks{
   color: blue;
   text-decoration:none;
   font-weight:600;
   opacity:0.75
 }
-#Courses a:visited #boxlinks{
+#courses a:visited #boxlinks{
   color: blue;
   text-decoration:none;
   font-weight:600;
   opacity:0.75
 }
-#Courses a:hover #boxlinks{
+#courses a:hover #boxlinks{
   color: blue;
   text-decoration:none;
   font-weight:600;
