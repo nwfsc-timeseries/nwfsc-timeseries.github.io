@@ -38,6 +38,7 @@
   margin-bottom: 0px;
   margin-top: 0px;
   color: black;
+  opacity: 0.5;
 }
 #pkgscontainer {
   display: flex;                  /* establish flex container */
