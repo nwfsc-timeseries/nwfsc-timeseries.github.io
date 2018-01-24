@@ -258,52 +258,19 @@ nav ul li:hover, nav ul li.active {
 .longlist li { margin-bottom: 3px; }
 
 /* courses boxes */
-#rcorners2 {
-    border-radius: 25px;
-    border: 5px solid #73AD21;
-    background-color: white;
-    padding: 20px;
-    width: 200px;
-    height: 150px;
-    text-align: center;
-    float: left;
-    font-size: 14pt; 
-    margin-right: 1%;
-    margin-bottom: 0.5em;
-    color: black;
-}
-
-.divcenter {
-    margin: auto;
-    width: 80%;
-    padding: 10px;
-    text-align: center;
-    background: red;
-}
-
-#rcorners3 {
-    border-radius: 25px;
-    border: 5px solid #73AD21;
-    background-color: white;
-    padding: 20px;
-    width: 100px;
-    height: 100px;
-    text-align: center;
-    float: left;
-    font-size: 14pt; 
-    margin-right: 1%;
-    margin-bottom: 0.5em;
-    color: black;
-}
-
-a.boxlinks
-a.boxlinks:visited{
+#Courses a #boxlinks{
   color: blue;
   text-decoration:none;
   font-weight:600;
   opacity:0.75
 }
-a.boxlinks:hover {
+#Courses a:visited #boxlinks{
+  color: blue;
+  text-decoration:none;
+  font-weight:600;
+  opacity:0.75
+}
+#Courses a:hover #boxlinks{
   color: blue;
   text-decoration:none;
   font-weight:600;
