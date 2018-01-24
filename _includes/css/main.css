@@ -274,9 +274,9 @@ nav ul li:hover, nav ul li.active {
 }
 
 .divcenter {
-    margin: auto;
-    width: 80%;
-    padding: 10px;
+display:inline-block;
+background:red;
+padding: 10px;
 }
 
 #rcorners3 {
