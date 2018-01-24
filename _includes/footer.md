@@ -1,7 +1,6 @@
 
 
-Design by Tom Verbesselt 
+Single Page Theme by Tim O'Brien 
 [SinglePaged theme](https://github.com/t413/SinglePaged)
-&mdash;
-[CVO Antwerpen](http://www.cvoantwerpen.be/)
+
 
