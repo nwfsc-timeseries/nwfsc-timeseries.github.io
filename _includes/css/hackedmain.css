@@ -273,15 +273,19 @@ nav ul li:hover, nav ul li.active {
   font-size: 2.8vw; 
 }
 #coursesbox {
-  font-size: 10pt; /* 12pt orig; go smaller if vw is not avail */
-  font-size: 2.4vw; 
+  font-size: 14pt; /* 14pt orig; go smaller if vw is not avail */
+  font-size: 2.8vw; 
 }
 #pkgsbox { /* package title */
   font-size: 12pt; /* 14 orig; go smaller if vw is not avail */
   font-size: 2.8vw; 
 }
-#pkgsboxtext1 { /* package text; at 380, descriptor text disappears.  At 300, font starts shrinking */
-  font-size: 2vw; 
+#pkgsboxtext1 { 
+  font-size: 2.4vw; 
+}
+#pkgsboxtext1 { 
+  /* 12 pt orig; package text; at 380, descriptor text disappears.  At 500, font starts shrinking */
+  font-size: 2.4vw; 
 }
 
 }
