@@ -266,8 +266,12 @@ nav ul li:hover, nav ul li.active {
   }
 }
 
-/* Start shrinking box text */
+/* Start shrinking box text at 500px */
 @media only screen and (max-width: 500px) {
+#contactsbox{
+  font-size: 12pt; /* 14 orig; go smaller if vw is not avail */
+  font-size: 2.8vw; 
+}
 #coursesbox {
   font-size: 10pt; /* 12pt orig; go smaller if vw is not avail */
   font-size: 2.4vw; 

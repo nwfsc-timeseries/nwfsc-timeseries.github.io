@@ -85,6 +85,7 @@
 }
 #contactsbox {
   width: 25%;
+  min-width: 100px;
   text-align: center;
   padding: 20px;
   font-size: 14pt; 
