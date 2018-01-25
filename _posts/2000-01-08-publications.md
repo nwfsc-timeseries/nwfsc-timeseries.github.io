@@ -5,7 +5,7 @@ color: black
 icon: img/logo2.png
 ---
 
-# Publications related to multivariate time-series analysis
+## Publications related to multivariate time-series analysis
 
 This is a selection of our papers.  See our <a href="https://nwfsc-timeseries.github.io/#contact">individual websites</a> for our publications on other topics.
 
