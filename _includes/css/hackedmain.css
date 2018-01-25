@@ -283,7 +283,7 @@ nav ul li:hover, nav ul li.active {
 #pkgsboxtext1 { 
   font-size: 2.4vw; 
 }
-#pkgsboxtext1 { 
+#pkgsboxtext2 { 
   /* 12 pt orig; package text; at 380, descriptor text disappears.  At 500, font starts shrinking */
   font-size: 2.4vw; 
 }
