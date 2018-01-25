@@ -264,19 +264,22 @@ nav ul li:hover, nav ul li.active {
     min-width:60px;
     line-height:40px;
   }
+}
+
+/* Start shrinking box text */
+@media only screen and (max-width: 300px) {
 #coursesbox {
-  font-size: 12pt;
-  font-size: 2vw; 
+  font-size: 10pt; /* go smaller if vw is not avail */
+  font-size: 4vw; 
 }
-#pkgsbox {
-  font-size: 2vw; 
+#pkgsbox { /* package title */
+  font-size: 12pt; /* go smaller if vw is not avail */
+  font-size: 4.6vw; 
 }
-#pkgsboxtext1 {
-  font-size: 1.4vw; 
+#pkgsboxtext1 { /* package text; at 380, descriptor text disappears.  At 300, font starts shrinking */
+  font-size: 3.33vw; 
 }
-#pkgsboxtext2 {
-  font-size: 1.4vw; 
-}
+
 }
 
 /* tiny size (phones) */
@@ -286,7 +289,7 @@ nav ul li:hover, nav ul li.active {
 #coursesboxtext2 {
   display: none; 
 }
-#pkgsboxtext2 {
+#pkgsboxtext2 {  /* too small; remove descriptions */
   display: none; 
 }
 
