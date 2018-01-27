@@ -23,7 +23,7 @@ ul {
 
 * Goertler, P.A.L., **M.D. Scheuerell**, C.A. Simenstad, D.L. Bottom. 2016. Estimating common growth
 patterns in juvenile Chinook salmon (*Oncorhynchus tshawytscha*) from diverse genetic stocks and a
-large spatial extent. PLoS ONE [11:e0162121](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0162121)
+large spatial extent. PLoS ONE 11:e0162121 [PDF](https://doi.org/10.1371/journal.pone.0162121)
 
 * Ohlberger J., **M. D. Scheuerell**, and D. E. Schindler. 2016. Population coherence and environmental impacts across spatial scales: a case study of Chinook salmon. Ecosphere 7:e01333 [PDF](https://doi.org/10.1002/ecs2.1333)
 
