@@ -21,15 +21,22 @@ ul {
 
 * Tolimieri, N., **E. E. Holmes**, G. D. Williams, R. Pacunski, and D. Lowry.  2017. Population assessment using multivariate time-series analysis: A case study of rockfishes in Puget Sound. Ecology and Evolution 7(8): 2045-7758. [PDF]( http://onlinelibrary.wiley.com/doi/10.1002/ece3.2901/epdf)
 
-* Ohlberger J., **M. D. Scheuerell**, and D. E. Schindler. 2016. Population coherence and environmental impacts across spatial scales: a case study of Chinook salmon. Ecosphere 7:e01333
+* Goertler, P.A.L., **M.D. Scheuerell**, C.A. Simenstad, D.L. Bottom. 2016. Estimating common growth
+patterns in juvenile Chinook salmon (*Oncorhynchus tshawytscha*) from diverse genetic stocks and a
+large spatial extent. PLoS ONE 11:e0162121 [PDF](https://doi.org/10.1371/journal.pone.0162121)
 
-* Jorgensen J. C., **E. J. Ward**, **M. D. Scheuerell**, and R. W. Zabel. 2016. Assessing spatial covariance among time series of abundance. Ecology and Evolution 6:2472–2485
+* Ohlberger J., **M. D. Scheuerell**, and D. E. Schindler. 2016. Population coherence and environmental impacts across spatial scales: a case study of Chinook salmon. Ecosphere 7:e01333 [PDF](https://doi.org/10.1002/ecs2.1333)
 
-* **Scheuerell M. D.**, E. R. Buhle, B. X. Semmens, M. J. Ford, T. Cooney, R. W. Carmichael. 2015. Analyzing large-scale conservation interventions with Bayesian hierarchical models: A case study of supplementing threatened Pacific salmon. Ecology and Evolution 5:2115–2125
+* Jorgensen J. C., **E. J. Ward**, **M. D. Scheuerell**, and R. W. Zabel. 2016. Assessing spatial covariance among time series of abundance. Ecology and Evolution 6:2472–2485 [PDF](https://doi.org/10.1002/ece3.2031)
+
+* **Scheuerell M. D.**, E. R. Buhle, B. X. Semmens, M. J. Ford, T. Cooney, R. W. Carmichael. 2015. Analyzing large-scale conservation interventions with Bayesian hierarchical models: A case study of supplementing threatened Pacific salmon. Ecology and Evolution 5:2115–2125 [PDF](https://doi.org/10.1002/ece3.1509)
 
 * Ford, M. J., K. Barnas, T. Cooney, L. G. Crozier, M. Diaz, J. J. Hard, **E. E. Holmes**, D. M. Holzer, R. G. Kope, P. W. Lawson, M. Liermann, J. M. Myers, M. Rowse, D. J. Teel, D. M. Van Doornik, T. C. Wainwright, L. A. Weitkamp, M. Williams. 2015. Status Review Update for Pacific Salmon and Steelhead Listed under the Endangered Species Act:  Pacific Northwest. National Marine Fisheries Service, Northwest Fisheries Science Center. [PDF](https://www.nwfsc.noaa.gov/assets/11/8623_03072016_124156_Ford-NWSalmonBioStatusReviewUpdate-Dec%2021-2015%20v2.pdf)
 
 * Ruhi, A., **E. E. Holmes**, J. N. Rinne, and J. L. Sabo. 2015. Anomalous droughts, not invasion, decrease persistence of native fishes in a desert river. Global Change Biology 21:1482-1496. [html](http://onlinelibrary.wiley.com/doi/10.1111/gcb.12780/full) [PDF](Ruhietal2015.pdf)
+
+* Lisi P.J., D.E. Schindler, T.J. Cline, **M.D. Scheuerell**, P.B. Walsh. 2015. Topography and snowmelt control
+stream thermal sensitivity to air temperature. Geophysical Research Letters 42:3380-3388 [PDF](https://doi.org/10.1002/2015gl064083)
 
 * Griffiths J. R, D. E. Schindler, J. B. Armstrong, **M. D. Scheuerell**, D. C. Whited, R. A. Clarke, R. Hilborn, C. A. Holt, S. T. Lindley, J. A. Stanford, and E. C. Volk. 2014. Performance of salmon fishery portfolios across western North America. Journal of Applied Ecology 51:1554–1563
 
