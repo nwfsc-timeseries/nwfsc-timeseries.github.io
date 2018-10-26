@@ -5,7 +5,7 @@ color: black
 icon: img/logo2.png
 ---
 
-## Publications related to multivariate time-series analysis
+## NWFSC Publications related to multivariate time-series analysis
 
 This is a selection of NWFSC papers using MARSS modeling.  See our <a href="https://nwfsc-timeseries.github.io/#contact">individual websites</a> for our publications on other topics.
 
@@ -15,9 +15,9 @@ ul {
 }
 </style>
 
-* Nogueira, A., N. Tolimieri, and D. González-Troncoso. 2018. Using multivariate state-space models to examine commercial stocks of redfish (*Sebastes* spp.) on the Flemish Cap. Canadian Journal of Fisheries and Aquatic Sciences. Published on the web 17 April 2018, https://doi.org/10.1139/cjfas-2017-0435.
+* Nogueira, A., N. Tolimieri, and D. González-Troncoso. 2018. Using multivariate state-space models to examine commercial stocks of redfish (*Sebastes* spp.) on the Flemish Cap. Canadian Journal of Fisheries and Aquatic Sciences. Published on the web 17 April 2018, [https://doi.org/10.1139/cjfas-2017-0435](https://doi.org/10.1139/cjfas-2017-0435).
 
-* Ward, E. J., K. Oken, K. A. Rose, S. Sable, K. Watkins, E. E. Holmes, and M. D. Scheuerell. 2018. Applying spatiotemporal models to monitoring data to quantify fish responses to the Deepwater Horizon oil spill in the Gulf of Mexico. Environmental Monitoring and Assessment 190:530. https://doi.org/10.1007/s10661-018-6912-z
+* Ward, E. J., K. Oken, K. A. Rose, S. Sable, K. Watkins, E. E. Holmes, and M. D. Scheuerell. 2018. Applying spatiotemporal models to monitoring data to quantify fish responses to the Deepwater Horizon oil spill in the Gulf of Mexico. Environmental Monitoring and Assessment 190:530. [https://doi.org/10.1007/s10661-018-6912-z](https://doi.org/10.1007/s10661-018-6912-z)
 
 * Ward, E.J., M. Adkison, J. Couture, S. C. Dressel, M. A. Litzow, S. Moffitt, T. Hoem Neher, J. Trochta, and R. Brenner. 2017. Evaluating signals of oil spill impacts, climate, and species interactions in Pacific herring and Pacific salmon populations in Prince William Sound and Copper River, Alaska. *PLOS ONE*, 12(3): e0172898.
 
