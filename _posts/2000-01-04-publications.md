@@ -5,7 +5,7 @@ color: black
 icon: img/logo2.png
 ---
 
-## NWFSC Publications related to multivariate time-series analysis
+## Our publications related to multivariate time-series analysis
 
 This is a selection of NWFSC papers using MARSS modeling.  See our <a href="https://nwfsc-timeseries.github.io/#contact">individual websites</a> for our publications on other topics.
 
